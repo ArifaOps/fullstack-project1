@@ -1,0 +1,5 @@
+yum install vim wget -y
+yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel -y
+yum install gcc perl-ExtUtils-MakeMaker -y
+cd /opt/
+wget link
